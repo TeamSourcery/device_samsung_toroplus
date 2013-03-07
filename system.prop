@@ -16,6 +16,10 @@ persist.radio.imsallowmtsms=1
 # Default ecclist
 ro.ril.ecclist=112,911,#911,*911
 
+#Operator values
+ro.cdma.home.operator.alpha=Sprint
+ro.cdma.home.operator.numeric=310120
+
 # hardware info
 ro.device.cpu=1.2GHz dual-core TI OMAP 4460
 ro.device.gpu=PowerVR SGX SGX540
